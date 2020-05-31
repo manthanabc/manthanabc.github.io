@@ -1,4 +1,4 @@
-![GitHub Logo](/favicon.ico)
+<link rel=”shortcut icon” href = “/favicon.ico”>![GitHub Logo](/favicon.ico)
 
 ## Manthan Patil
 
