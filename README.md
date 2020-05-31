@@ -1,13 +1,14 @@
 ## Manthan Patil
 //![GitHub Logo](/favicon.ico)
 
-You can use the [editor on GitHub](https://github.com/manthanabc/manthanabc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You find many of my works here [My GitHub page](https://github.com/manthanabc/) to maintain and preview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+this page is under devlopment and there is much to add here yet so look out fo changes.
 
 ### One place for all my creations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I made this page to keep all my creation at one place and visible to all this includes my all instructables ,You tube videos ,my 
+current Web apps and much much more
 
 ```markdown
 Syntax highlighted code block
