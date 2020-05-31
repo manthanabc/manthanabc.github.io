@@ -1,5 +1,6 @@
+![GitHub Logo](/favicon.ico)
+
 ## Manthan Patil
-//![GitHub Logo](/favicon.ico)
 
 You find many of my works here [My GitHub page](https://github.com/manthanabc/) to maintain and preview
 
@@ -13,9 +14,9 @@ current Web apps and much much more
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# MY multiplayer game
+## My Chat with draw app
+### My you tube channel
 
 - Bulleted
 - List
