@@ -1,4 +1,4 @@
-![GitHub logo](/favicon.ICO)
+![GitHub logo](/favicon.ico)
 
 ## Manthan Patil
 
