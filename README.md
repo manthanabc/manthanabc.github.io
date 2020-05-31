@@ -1,6 +1,6 @@
 ![GitHub logo](/favicon.ico)
 
-## Manthan Patil
+##          Manthan Patil
 
 You find many of my works here [My GitHub page](https://github.com/manthanabc/) to maintain and preview
 
